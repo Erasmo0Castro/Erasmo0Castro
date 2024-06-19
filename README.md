@@ -17,7 +17,7 @@
 💡 &nbsp;Me gusta aprender y afrontar nuevos desafios.\
 ✍️ &nbsp;En mi tiempo libre me gusta jugar baloncesto, tocar el piano y la guitarra.
 
-✉️ &nbsp;Me puedes escribir a este correo: byteworld40@gmail.com! para comunicarnos.\
+✉️ &nbsp;Me puedes escribir a este correo: erasmocastro606@gmail.com! para comunicarnos.\
 📄 &nbsp;Aqui esta mi [CV](https://www.) para detalles mas precisos. Estoy abierto a sugerencias!
 
 🌱&nbsp;“Es difícil encontrar un error en tu código cuando lo estás buscando, pero es más difícil encontrarlo cuando asumes que tu código está libre de errores”.\
@@ -45,13 +45,13 @@
 <a href="https://www.linkedin.com/in/erasmo-castro-6722821b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 <!--<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>d--> 
 <!-- <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>d--> 
-<a href="https://www.instagram.com/byte.codig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="https://www.instagram.com/erasmo_develop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 <!-- fin redes sociales -->
 
 <br><br>
 <!-- Inicio lenguajes-->
-<h3 align="left">Estudiante:</h3><p ></a> 
+<h3 align="left">Stack:</h3><p ></a> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width = "35px" height="40" /></a>  
