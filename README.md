@@ -18,7 +18,7 @@
 ✍️ &nbsp;En mi tiempo libre me gusta jugar baloncesto, tocar el piano y la guitarra.
 
 ✉️ &nbsp;Me puedes escribir a este correo: erasmocastro606@gmail.com! para comunicarnos.\
-📄 &nbsp;Aqui esta mi [CV](https://www.) para detalles mas precisos. Estoy abierto a sugerencias!
+📄 &nbsp;Aqui esta mi [CV](https://drive.google.com/file/d/1chPpe7jO8S__P0sxhdTvlEh8FhA5yfel/view?usp=drive_link) para detalles mas precisos. Estoy abierto a sugerencias!
 
 🌱&nbsp;“Es difícil encontrar un error en tu código cuando lo estás buscando, pero es más difícil encontrarlo cuando asumes que tu código está libre de errores”.\
 💬 &nbsp;  Después de la oración, la tecnología es el mejor medio para cambiar el mundo.» – Billy Graham.
@@ -52,13 +52,22 @@
 <br><br>
 <!-- Inicio lenguajes-->
 <h3 align="left">Stack:</h3><p ></a> 
+<!--HTML -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
+<!--JAVASCRIPT -->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width = "35px" height="40" /></a>  
+<!--REACT -->
  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
+ <!--BOOTSTRAP -->
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<!--TAILWINDCSS -->
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  <!--DART -->
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
+<!--FLUTTER -->
+ <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 	
+ <!--PYTHON -->
+ <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  <!-- Fin lenguajes-->
  <br><br>
 <!-- Inicio herramientas-->
