@@ -18,7 +18,7 @@
 ✍️ &nbsp;En mi tiempo libre me gusta jugar baloncesto, tocar el piano y la guitarra.
 
 ✉️ &nbsp;Me puedes escribir a este correo: erasmocastro606@gmail.com! para comunicarnos.\
-📄 &nbsp;Aqui esta mi [CV](https://drive.google.com/file/d/1chPpe7jO8S__P0sxhdTvlEh8FhA5yfel/view?usp=drive_link) para detalles mas precisos. Estoy abierto a sugerencias!
+📄 &nbsp;Aqui esta mi [CV](https://drive.google.com/file/d/1qJNx5noqoHhA3bFTxjM2NxLTsRbfLxD0/view?usp=sharing) para detalles mas precisos. Estoy abierto a sugerencias!
 
 🌱&nbsp;“Es difícil encontrar un error en tu código cuando lo estás buscando, pero es más difícil encontrarlo cuando asumes que tu código está libre de errores”.\
 💬 &nbsp;  Después de la oración, la tecnología es el mejor medio para cambiar el mundo.» – Billy Graham.
