@@ -53,7 +53,7 @@
 <!-- Inicio lenguajes-->
 <h3 align="left">Stack:</h3><p ></a> 
 <!--HTML -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
 <!--JAVASCRIPT -->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width = "35px" height="40" /></a>  
@@ -74,7 +74,7 @@
 <h3 align="left">Herramientas:</h3>
 <p ></a> 
 <img align="left" alt="GitHub" width="38px" height = "38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height= "40px"/><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height= "20px"/><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <!-- Fin herramientas-->
 </p>
